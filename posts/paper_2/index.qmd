@@ -17,4 +17,4 @@ image: "linear_regression_featured_image.png"
 knitr::opts_chunk$set(echo = FALSE)
 ```
 
-##publication
+## Publication
