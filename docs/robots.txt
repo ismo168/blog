@@ -1,1 +1,1 @@
-Sitemap:  /sitemap.xml
+Sitemap: https://ismo168.github.io/blog/sitemap.xml
