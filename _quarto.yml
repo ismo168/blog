@@ -35,9 +35,7 @@ website:
         
       - text: Blog
         href: posts/posts.qmd
-        
-      - text: Projets
-        href: projects/projects.qmd
+      
         
 format:
   html:
