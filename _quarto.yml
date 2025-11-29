@@ -10,10 +10,10 @@ website:
   title: "Ismaila Ouedraogo"
   page-navigation: false
   site-url: "https://ismo168.github.io/blog/"
-  description: "Bienvenue sur mon site personnel. Je suis Ouedraogo, un passionné de la data science et ses applications business à forte value ajoutée. Explorez mes projets, articles de blog et plus encore !"
+  description: "Welcome to my personal website. I'm Ismaila Ouedraogo, working in digital health, health informatics, and biomedical engineering. Explore my projects, research publications, and more!"
   
   page-footer:
-    left: '<p>Copyright &copy; <script>document.write(new Date().getFullYear())</script> Boukary Ouedraogo</p>'
+    left: '<p>Copyright &copy; <script>document.write(new Date().getFullYear())</script> Ismaila Ouedraogo</p>'
     center: "Powered by ❤️, [Quarto](https://quarto.org/) et <img width='20' height='20' src='https://img.icons8.com/fluency/48/r-project.png' alt='r-project'/>"
     right:
       - icon: github

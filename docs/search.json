@@ -18,7 +18,7 @@
     "href": "about.html",
     "title": "Ismaila Ouedraogo",
     "section": "",
-    "text": "Ingénieur statisticien-économiste de formation, je suis passionné par la statistique, la data science, le machine learning et l’IA et leur application aux problématiques concrètes.\nJ’ai acquis une expérience significative dans le domaine de la statistique et de la data science, notamment dans les secteurs de la protection sociale et de la finance."
+    "text": "I am a digital health researcher and digital project manager working in health information systems and implementation science. I focus on developing and deploying digital solutions adapted to local contexts, improving health information quality and use, and advancing digital health literacy in low-resource settings."
   },
   {
     "objectID": "about.html#formation",
@@ -28,11 +28,18 @@
     "text": "Formation\nUniversité Paris Nanterre & Université Paris Saclay | France  Master en modélisation prospective | Sept 2016 - Juin 2017\nINSEA | Rabat, Maroc  Ingénieur statisticien-économiste | Sept 2012 - Juil 2015\nUniversité Ibn Tofail | Kenitra, Maroc  DEUG en mathématiques | Sept 2010 - Juil 2012"
   },
   {
+    "objectID": "about.html#education",
+    "href": "about.html#education",
+    "title": "Ismaila Ouedraogo",
+    "section": "Education",
+    "text": "Education\nUniversity of Bordeaux | Bordeaux, France  PhD in Computing and Health | 2020 - Feb 2024 Topic: Mobile technologies and AI to improve access to health information in underserved populations. University of Technology of Compiègne (UTC) |Compiègne, France  Master’s in Health Engineering — Biomedical Technologies and Health Territories | 2018 - 2020 Erciyes University | Kayseri, Turkey  Bachelor’s Degree in Biomedical Engineering | 2014 - 2018 Politehnica University of Bucharest | Bucharest, Romania  Erasmus Exchange Program | Sept 2016 - Feb 2017"
+  },
+  {
     "objectID": "about.html#experience",
     "href": "about.html#experience",
     "title": "Ismaila Ouedraogo",
     "section": "Experience",
-    "text": "Experience\nArval BNP Paribas | Statisticien & Analyst Pricing | Février 2022 - présent\nCCMSA | Statisticien & Data scientist | Janv 2018 - Janv 2022"
+    "text": "Experience\nUniversité Nazi Boni | Postdoctoral Researcher — Digital Health & Pediatric Tuberculosis | June 2024 - Present EURAC Research | Research assistant | Feb 2023 - Aug 2023"
   },
   {
     "objectID": "index.html#publications-récentes",

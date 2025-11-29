@@ -5,12 +5,9 @@ about:
 comments: false
 nav: false
 ---
+I am a digital health researcher and digital project manager working in health information systems and implementation science. I focus on developing and deploying digital solutions adapted to local contexts, improving health information quality and use, and advancing digital health literacy in low-resource settings.
 
-Ingénieur statisticien-économiste de formation, je suis passionné par la statistique, la data science, le machine learning et l'IA et leur application aux problématiques concrètes. 
-
-J'ai acquis une expérience significative dans le domaine de la statistique et de la data science, notamment dans les secteurs de la protection sociale et de la finance.
-
-Je suis certifié SAS et je maîtrise les langages de programmation R et Python. Je possède également 5 certifications sur Dataiku.
+My experience includes designing clinical decision support systems (CDSS), supporting interoperability between health information systems, and coordinating digital health projects from concept to implementation. I combine research, technical development, and strategic coordination to support digital transformation and equitable access to quality health services
 <hr>
 
 ## Formation
@@ -21,11 +18,17 @@ Je suis certifié SAS et je maîtrise les langages de programmation R et Python.
 
 **Université Ibn Tofail** \| Kenitra, Maroc <br/> DEUG en mathématiques \| Sept 2010 - Juil 2012
 
+## Education
+**University of Bordeaux** \| Bordeaux, France <br/> PhD in Computing and Health \| 2020 - Feb 2024
+Topic: Mobile technologies and AI to improve access to health information in underserved populations.
+**University of Technology of Compiègne (UTC)** \|Compiègne, France <br/> Master’s in Health Engineering — Biomedical Technologies and Health Territories \|  2018 - 2020
+**Erciyes University** \| Kayseri, Turkey <br/> Bachelor’s Degree in Biomedical Engineering \| 2014 - 2018
+**Politehnica University of Bucharest** \| Bucharest, Romania <br/> Erasmus Exchange Program \| Sept 2016 - Feb 2017
+
 ## Experience
 
-**Arval BNP Paribas** \| Statisticien & Analyst Pricing \| Février 2022 - présent
-
-**CCMSA** \| Statisticien & Data scientist \| Janv 2018 - Janv 2022
+**Université Nazi Boni**  \| Postdoctoral Researcher — Digital Health & Pediatric Tuberculosis \| June 2024 - Present
+**EURAC Research** \| Research assistant \| Feb 2023 - Aug 2023
 
 
 
