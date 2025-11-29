@@ -3,9 +3,9 @@ project:
   preview: 
     port: 4200
   output-dir: docs  
-lang: fr
+lang: en
 language: 
-  title-block-author-single: "Auteur"
+  title-block-author-single: "Author"
 website:
   title: "Ismaila Ouedraogo"
   page-navigation: false
@@ -14,26 +14,26 @@ website:
   
   page-footer:
     left: '<p>Copyright &copy; <script>document.write(new Date().getFullYear())</script> Boukary Ouedraogo</p>'
-    center: "Site crée par avec ❤️, [Quarto](https://quarto.org/) et <img width='20' height='20' src='https://img.icons8.com/fluency/48/r-project.png' alt='r-project'/>"
+    center: "Powered by ❤️, [Quarto](https://quarto.org/) et <img width='20' height='20' src='https://img.icons8.com/fluency/48/r-project.png' alt='r-project'/>"
     right:
       - icon: github
-        href: https://github.com/oboukary/
+        href: https://github.com/ismo168 
       - icon: linkedin
-        href: https://www.linkedin.com/in/oboukary/
+        href: https://www.linkedin.com/in/ismaila-ouedraogo/
       - icon: envelope
-        href: mailto:ouedraogo.boukary89@gmail.com
+        href: mailto:ouedraogoismaila4@gmail.com
   
   
   navbar:
     pinned: true
     right:
       - href: index.qmd
-        text: Accueil
+        text: Home
         
       - href: about.qmd
-        text: A propos
+        text: About me
         
-      - text: Blog
+      - text: Publications
         href: posts/posts.qmd
       
         

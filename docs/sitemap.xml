@@ -1,39 +1,31 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://oboukary.com/post.html</loc>
-    <lastmod>2025-11-22T13:46:32.554Z</lastmod>
-  </url>
-  <url>
-    <loc>https://oboukary.com/posts/01_regression_lineaire/index.html</loc>
-    <lastmod>2025-11-22T13:46:32.557Z</lastmod>
-  </url>
-  <url>
-    <loc>https://oboukary.com/about.html</loc>
-    <lastmod>2025-11-22T13:46:32.304Z</lastmod>
-  </url>
-  <url>
-    <loc>https://oboukary.com/index.html</loc>
-    <lastmod>2025-11-22T13:46:32.554Z</lastmod>
-  </url>
-  <url>
-    <loc>https://oboukary.com/posts/posts.html</loc>
-    <lastmod>2025-11-22T13:46:32.560Z</lastmod>
-  </url>
-  <url>
-    <loc>https://oboukary.com/projects/projects.html</loc>
+    <loc>https://ismo168.github.io/blog/projects/projects.html</loc>
     <lastmod>2025-11-22T13:46:32.570Z</lastmod>
   </url>
   <url>
-    <loc>https://oboukary.com/posts/paper_2/index.html</loc>
-    <lastmod>2025-11-22T14:28:13.931Z</lastmod>
-  </url>
-  <url>
-    <loc>/posts/paper_2/index.html</loc>
-    <lastmod>2025-11-22T14:28:13.931Z</lastmod>
-  </url>
-  <url>
     <loc>https://ismo168.github.io/blog/posts/paper_2/index.html</loc>
-    <lastmod>2025-11-22T14:28:13.931Z</lastmod>
+    <lastmod>2025-11-22T14:51:35.915Z</lastmod>
+  </url>
+  <url>
+    <loc>https://ismo168.github.io/blog/post.html</loc>
+    <lastmod>2025-11-22T13:46:32.554Z</lastmod>
+  </url>
+  <url>
+    <loc>https://ismo168.github.io/blog/about.html</loc>
+    <lastmod>2025-11-22T13:46:32.304Z</lastmod>
+  </url>
+  <url>
+    <loc>https://ismo168.github.io/blog/index.html</loc>
+    <lastmod>2025-11-22T13:46:32.554Z</lastmod>
+  </url>
+  <url>
+    <loc>https://ismo168.github.io/blog/posts/01_regression_lineaire/index.html</loc>
+    <lastmod>2025-11-22T13:46:32.557Z</lastmod>
+  </url>
+  <url>
+    <loc>https://ismo168.github.io/blog/posts/posts.html</loc>
+    <lastmod>2025-11-22T13:46:32.560Z</lastmod>
   </url>
 </urlset>

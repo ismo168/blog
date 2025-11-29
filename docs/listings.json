@@ -1,5 +1,9 @@
 [
   {
+    "listing": "/projects/projects.html",
+    "items": []
+  },
+  {
     "listing": "/index.html",
     "items": [
       "/posts/01_regression_lineaire/index.html",
@@ -12,9 +16,5 @@
       "/posts/01_regression_lineaire/index.html",
       "/posts/paper_2/index.html"
     ]
-  },
-  {
-    "listing": "/projects/projects.html",
-    "items": []
   }
 ]
